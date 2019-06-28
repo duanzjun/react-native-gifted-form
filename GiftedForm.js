@@ -20,7 +20,6 @@ const SeparatorWidget = require('./widgets/SeparatorWidget');
 const GroupWidget = require('./widgets/GroupWidget');
 const NoticeWidget = require('./widgets/NoticeWidget');
 const ValidationErrorWidget = require('./widgets/ValidationErrorWidget');
-const GooglePlacesWidget = require('./widgets/GooglePlacesWidget');
 const RowWidget = require('./widgets/RowWidget');
 const RowValueWidget = require('./widgets/RowValueWidget');
 const LoadingWidget = require('./widgets/LoadingWidget');
@@ -43,7 +42,6 @@ const GiftedForm = createReactClass({
     SeparatorWidget,
     GroupWidget,
     NoticeWidget,
-    GooglePlacesWidget,
     RowWidget,
     RowValueWidget,
     LoadingWidget,
