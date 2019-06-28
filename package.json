@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaridSafi/react-native-gifted-form.git"
+    "url": "git+https://github.com/duanzjun/react-native-gifted-form.git"
   },
   "keywords": [
     "form",
@@ -21,9 +21,9 @@
   "author": "Farid from Safi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FaridSafi/react-native-gifted-form/issues"
+    "url": "https://github.com/duanzjun/react-native-gifted-form/issues"
   },
-  "homepage": "https://github.com/FaridSafi/react-native-gifted-form#readme",
+  "homepage": "https://github.com/duanzjun/react-native-gifted-form#readme",
   "dependencies": {
     "apsl-react-native-button": "^3.1.0",
     "create-react-class": "^15.6.2",
