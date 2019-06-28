@@ -30,7 +30,6 @@
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react-native-button": "^2.1.0",
-    "react-native-gifted-spinner": "~0.1.0",
     "react-timer-mixin": "~0.13.4",
     "validator": "^10.11.0"
   }
